@@ -22,10 +22,6 @@ And it’s perfect for simulating stock prices.
 
 ---
 
-**File:** [Simulate Prices](SimulatePrices.ipynb)
-
----
-
 ## Step 1: Import the libraries
 
 numpy
